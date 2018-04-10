@@ -1,0 +1,8 @@
+M250Account x = new M250Account();
+x.setAccountNum("X1234");
+x.setAccountNum("1X2345");
+x.setAccountNum("x12345");
+x.setAccountNum("C1234-");
+x.setAccountNum("B12345");
+x.setAccountNum("123456");
+x.setAccountNum("3456789");

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=M250Account()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ M250Account\r\n
+comment1.params=
+comment1.target=java.lang.String\ getAccountNum()
+comment1.text=\r\n\ An\ getter\ message\r\n
+comment2.params=s
+comment2.target=boolean\ isValidLength(java.lang.String)
+comment2.text=\r\n\ Method\ which\ check\ whether\ the\ String\ has\ a\ corrent\ length,\ which\ is\ 6\r\n
+comment3.params=s
+comment3.target=boolean\ isValidStart(java.lang.String)
+comment3.text=\r\n\ Method\ which\ check\ whether\ the\ first\ letter\ of\ string\ s\ is\ upper\ case.\r\n
+comment4.params=s
+comment4.target=boolean\ hasValidDigits(java.lang.String)
+comment4.text=\r\n\ Method\ which\ check\ whether\ all\ the\ characters,\ except\ first\ one,\ in\ a\ string\ s\ are\ digits.\ \r\n
+comment5.params=s
+comment5.target=boolean\ isValidAccountNum(java.lang.String)
+comment5.text=\r\n\ Method\ which\ perfom\ length,\ first\ letter\ and\ digits\ check\r\n
+comment6.params=s
+comment6.target=void\ setAccountNum(java.lang.String)
+comment6.text=\r\n\ Method\ which\ print\ out\ whether\ the\ string\ s\ is\ a\ correct\ account\ number.\r\n\ If\ so,\ assign\ value\ of\ string\ s\ to\ accountNum\ \r\n
+numComments=7
